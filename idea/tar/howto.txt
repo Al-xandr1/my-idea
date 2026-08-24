@@ -1,3 +1,0 @@
-split -b 100M ./idea-2026.2.1.tar.gz "part_" --verbose
-
-cat part_* > idea-2026.2.1.tar.gz
